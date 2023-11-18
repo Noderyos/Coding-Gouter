@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "L": [
+      {
+        "item": "minecraft:milk_bucket"
+      }
+    ]
+  },
+  "pattern": [
+    "C",
+    "L"
+  ],
+  "result": {
+    "count": 1,
+    "item": "codinggouter:hot_chocolate"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,53 @@
+{
+  "carvers": {
+    "air": []
+  },
+  "downfall": 0.0,
+  "effects": {
+    "fog_color": 10640128,
+    "mood_sound": {},
+    "music": {},
+    "sky_color": 16767659,
+    "water_color": 10640128,
+    "water_fog_color": 10640128
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:ore_dirt"
+    ],
+    [],
+    [
+      "minecraft:spring_water"
+    ],
+    [],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:panda",
+        "maxCount": 100,
+        "minCount": 50,
+        "weight": 100
+      }
+    ],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 15.0
+}

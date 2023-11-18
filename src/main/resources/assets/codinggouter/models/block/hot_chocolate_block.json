@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "codinggouter:block/hot_chocolate_block"
+  }
+}
